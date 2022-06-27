@@ -1,5 +1,4 @@
 # PDX
-## Product Name
 PDX (Personal Data Expert)
 
 ## Goal
