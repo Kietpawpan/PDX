@@ -19,3 +19,5 @@ Expert opinions on personal data disclosure in case a person requests the person
 ## Algorithm and Source Code
 See https://raw.githubusercontent.com/Kietpawpan/PDX/main/PDX.pyw?token=GHSAT0AAAAAABWAU6NMLUBKDME6HJHZNMYUYVZFPJA
 
+## Developer
+Monte Kietpawpan, Director, Information & Service Link Section, MNRE, Bangkok
