@@ -1,19 +1,22 @@
 # PDX
-## Product Name:
+## Product Name
 PDX (Personal Data Expert)
 
-## Goal: 
-To give expert opinions on personal data disclosure once a person requests the data.
+## Goal
+To give expert opinions on personal data disclosure in case a person requests the personal data from organizations in Thailand, so as to help them comply with the Personal Data Protection Act, B.E. 2562
   
-## Input:
+## Input
 Facts about the personal data being requested
 
-## Output:
-Expert opinions on  
+## Output
+Expert opinions on personal data disclosure in case a person requests the personal data from organizations in Thailand.  
 
-## Steps:
+## Steps
 1. Create the GUI
-2. Set the questions and choices
-3. Link each choice to the next level question or answer (expert opinion), to form a decision tree
-4. Write the expert opinion for each case at the end of the tree branch  
+2. Create the decision tree, with the questions and the choices for each question 
+3. Link each choice to the next level question or answer (expert opinion)
+4. Show the expert opinion for each case at the end of the tree branch
+
+## Algorithm and Source Code
+See
 
