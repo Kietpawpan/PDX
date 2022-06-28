@@ -1,20 +1,20 @@
 # PDX
-PDX (Personal Data Expert) is a prototype artificial intelligence that gives expert opinion on personal data disclosure according to Personal Data Protection Act, B.E. 2562
+PDX (Personal Data Expert) is a prototype artificial intelligence that gives expert opinions on personal data disclosure according to Personal Data Protection Act, B.E. 2562
 
 ## Goal
-To give expert opinions on personal data disclosure in case a person requests the personal data from organizations in Thailand, so as to help them comply with the laws
+To give expert opinions on personal data disclosure if anyone requests the personal data from any organizations in Thailand
   
 ## Input
-Facts about the personal data being requested
+Facts about the characteristics of the personal data being requested
 
 ## Output
-Expert opinions on personal data disclosure in case a person requests the personal data from organizations in Thailand.  
+Message boxes showing the expert opinions on personal data disclosure
 
 ## Steps
 1. Create the GUI
 2. Create the decision tree, with the questions and the choices for each question 
-3. Link each choice to the next level question or answer (expert opinion)
-4. Show the expert opinion for each case at the end of the tree branch
+3. Link each choice to the next (deeper) level question or answer (expert opinion)
+4. Show the expert opinion for each specific case
 
 ## Algorithm and Source Code
 See https://raw.githubusercontent.com/Kietpawpan/PDX/main/PDX.pyw?token=GHSAT0AAAAAABWB7RZA7CNPCEYBBW2SUT22YV2R5AA
