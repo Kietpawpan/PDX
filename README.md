@@ -22,3 +22,7 @@
 
 ## Algorithm และ Source Code
 https://raw.githubusercontent.com/Kietpawpan/PDX/main/PDX.pyw?token=GHSAT0AAAAAABWB7RZA7CNPCEYBBW2SUT22YV2R5AA
+
+## Version History
+- 2.0.0 ปรับปรุง GUI และเพิ่มแถบเมนูและเมนูย่อย
+- 1.0.0 เป็น prototype
