@@ -12,13 +12,13 @@
 2. ความเห็นของ AI เป็นข้อความในไฟล์ .txt สำหรับคัดลอกและนำไปใช้งาน
 
 ## วิธีใช้งาน
-1. ดาวน์โหลดไฟล์ source code (zip) โปรแกรม PDX ที่ https://github.com/Kietpawpan/PDX/releases
+1. ดาวน์โหลดไฟล์ source code (zip) ของโปรแกรม PDX ที่ https://github.com/Kietpawpan/PDX/releases
 2. แตกไฟล์ (Unzip) และวางไฟล์ PDX.pyw บน Desktop ของเครื่องคอมพิวเตอร์ PC หรือ Notebook บนระบบปฏิบัติการ Windows 
-3. ดาวโหลดโปรแกรม Python ที่ https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe และติดตั้งบนเครื่องคอมพิวเตอร์นั้น 
-4. เปิดไฟล์ PDX.pyw
-5. กดปุ่ม RUN บนแถบเมนูของโปรแกรม เพื่ออ่าน Disclaimer
-- ถ้ากด Yes จะสามารถใช้งานโปรแกรมต่อไป โดยำตอบคำถามของ AI จนกว่า AI จะให้ความเห็น  
-- ถ้ากด No ต้องกดปุ่ม OK เพื่อปิดโปรแกรม
+3. ดาวโหลดโปรแกรม Python จาก https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe และติดตั้งโปรแกรมนี้ บนคอมพิวเตอร์เครื่องเดียวกัน
+4. เปิดไฟล์ PDX.pyw โดยคลิกซ้ายที่ icon ไฟล์ดังกล่าว จำนวน 2 ครั้งติดกัน (double clicks)
+5. กดปุ่ม RUN บนแถบเมนูของโปรแกรม PDX เพื่ออ่าน Disclaimer
+- ถ้ากด Yes จะสามารถใช้งานโปรแกรมต่อไป โดยตอบคำถามต่าง ๆ ของ AI จนกว่า AI จะให้ความเห็น  
+- ถ้ากด No ต้องกดปุ่ม OK เพื่อออกจากโปรแกรม
 
 
 ## Algorithm และ Source Code
